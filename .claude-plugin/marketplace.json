@@ -1,0 +1,21 @@
+{
+  "name": "bebb",
+  "owner": {
+    "name": "Bebb",
+    "url": "https://usebebb.com"
+  },
+  "metadata": {
+    "description": "Skills by Bebb for navigating tech events with your AI assistant.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "web-summit-lisbon-2026",
+      "source": "./",
+      "description": "Expert navigator for Web Summit Lisbon 2026 and Web Summit Week (6–15 Nov): week plans, first-timer logistics, side events by goal, Night Summit, investor events and follow-up. Unofficial.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["web-summit", "lisbon", "side-events", "networking", "conference"]
+    }
+  ]
+}

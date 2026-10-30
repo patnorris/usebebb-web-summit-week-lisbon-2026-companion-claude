@@ -1,0 +1,25 @@
+{
+  "name": "web-summit-lisbon-2026",
+  "version": "1.0.0",
+  "description": "Expert navigator for Web Summit Lisbon 2026 (9–12 Nov) and Web Summit Week / Portugal Tech Week (6–15 Nov): personal week plans, first-timer logistics, side events by goal with access status and backups, Night Summit, investor events and follow-up. Unofficial, built on Bebb's daily-updated guides.",
+  "author": {
+    "name": "Bebb",
+    "url": "https://usebebb.com"
+  },
+  "homepage": "https://usebebb.com/websummit/newcomers",
+  "license": "MIT",
+  "keywords": [
+    "web-summit",
+    "websummit",
+    "lisbon",
+    "portugal-tech-week",
+    "side-events",
+    "networking",
+    "conference",
+    "events",
+    "startups",
+    "founders",
+    "investors"
+  ],
+  "repository": "https://github.com/patnorris/usebebb-web-summit-week-lisbon-2026-companion-claude"
+}

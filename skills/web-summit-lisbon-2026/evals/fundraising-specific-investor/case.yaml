@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: fundraising-specific-investor
+expected_outcome: |
+  Declines to promise entry or a specific investor meeting, explains Venture Night access (approval for startup tickets), flags the Tuesday overlap, recommends other approval-based investor events with links and a backup, and advises applying now.
