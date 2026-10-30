@@ -47,11 +47,7 @@ Custom skills are available on Pro, Max, Team and Enterprise plans. Skills you a
 
 ### Codex, Cursor, Gemini CLI, GitHub Copilot and other agents
 
-```
-npx skills add patnorris/usebebb-web-summit-week-lisbon-2026-companion-claude
-```
-
-Or copy `skills/web-summit-lisbon-2026/` into your agent's skills folder.
+Copy `skills/web-summit-lisbon-2026/` into your agent's skills folder. It follows the open `SKILL.md` format.
 
 ### No skill support?
 
