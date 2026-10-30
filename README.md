@@ -29,6 +29,15 @@ quick one: does my ticket get me into side events? where do I pick up my badge?
 
 ## Install
 
+### Claude app (web or desktop), about 1 minute
+
+1. **[Download web-summit-lisbon-2026.skill](https://github.com/patnorris/usebebb-web-summit-week-lisbon-2026-companion-claude/releases/latest/download/web-summit-lisbon-2026.skill)**
+2. In Claude, open **Customize → Skills**, click **+**, then **Create skill → Upload a skill**, and choose the downloaded file.
+3. Make sure **Code execution and file creation** is turned on in Settings (skills need it).
+4. Start a new chat and ask anything about Web Summit Week.
+
+Custom skills are available on Pro, Max, Team and Enterprise plans. Skills you add in the Claude app also load in Claude Code when you're signed in with the same account.
+
 ### Claude Code
 
 ```
@@ -36,13 +45,13 @@ quick one: does my ticket get me into side events? where do I pick up my badge?
 /plugin install web-summit-lisbon-2026@bebb
 ```
 
-### Claude apps (web, desktop, mobile)
+### Codex, Cursor, Gemini CLI, GitHub Copilot and other agents
 
-Download `web-summit-lisbon-2026.skill` from the [latest release](../../releases/latest) and add it in Claude's skills settings. You can also zip the `skills/web-summit-lisbon-2026` folder and upload that.
+```
+npx skills add patnorris/usebebb-web-summit-week-lisbon-2026-companion-claude
+```
 
-### Other agents
-
-Copy `skills/web-summit-lisbon-2026/` into the skills folder of any agent that supports the `SKILL.md` format.
+Or copy `skills/web-summit-lisbon-2026/` into your agent's skills folder.
 
 ### No skill support?
 
@@ -78,7 +87,7 @@ The skill itself collects no data. It is instructions and reference text only. W
 
 ## Contributing
 
-Spotted an outdated time, a broken link or a great side event that's missing? [Open an issue](../../issues) with the organizer's link.
+Spotted an outdated time, a broken link or a great side event that's missing? [Open an issue](https://github.com/patnorris/usebebb-web-summit-week-lisbon-2026-companion-claude/issues) with the organizer's link.
 
 ## License
 
