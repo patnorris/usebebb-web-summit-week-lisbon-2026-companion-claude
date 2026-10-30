@@ -1,4 +1,4 @@
-# Web Summit Lisbon 2026 skill for AI assistants
+# Web Summit Week in Lisbon 2026: a skill for AI assistants
 
 Turn Claude (or any assistant that supports Agent Skills) into an expert navigator for **Web Summit Lisbon 2026** (9–12 Nov, MEO Arena and FIL) and **Web Summit Week / Portugal Tech Week** (6–15 Nov).
 
