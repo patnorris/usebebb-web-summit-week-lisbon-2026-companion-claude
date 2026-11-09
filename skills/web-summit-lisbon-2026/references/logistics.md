@@ -1,6 +1,6 @@
 # Logistics and first-timer basics
 
-Source: Bebb Newcomer Antiguide, https://usebebb.com/websummit/newcomers (snapshot last updated 29 Oct 2026). Each fact below carries the link the guide cites; give that link when you use the fact.
+Source: Bebb Newcomer Antiguide, https://usebebb.com/websummit/newcomers (snapshot last updated 9 Nov 2026). Each fact below carries the link the guide cites; give that link when you use the fact.
 
 ## Contents
 1. Event basics
@@ -35,7 +35,14 @@ The guide's answer to "What should I do first at my first Web Summit?":
 ## 3. Badge pickup
 
 - Where: Humberto Delgado Airport Terminal 1, or Pavilhão de Portugal (next to the venue). Bring photo ID and your ticket in the app. You collect a lanyard and a wristband. Source: [Web Summit Registration Essentials](https://websummit.com/essentials/registration-essentials/)
-- Opening hours: **not yet published** at snapshot time. Tell the user to check Registration Essentials or the official app; fetch the live guide if you can.
+- Opening hours (per the guide, 9 Nov; times can change, so suggest a quick check in the official app):
+
+| Location | Sat 7 Nov | Sun 8 Nov | Mon 9 Nov | Tue 10 Nov | Wed 11 Nov | Thu 12 Nov |
+|---|---|---|---|---|---|---|
+| Airport T1 | 09:30–22:00 | 07:30–22:00 | 07:30–22:00 | 07:30–15:00 | not listed | not listed |
+| Pavilhão de Portugal | 12:00–18:00 | 12:00–18:00 | 12:00–22:00 | 07:30–17:00 | 07:30–17:00 | 07:30–16:45 |
+
+  The guide lists no airport hours after Tue 10 Nov; use Pavilhão de Portugal then.
 - The badge covers Web Summit and Night Summit only, not side events. See `networking-and-side-events.md`.
 
 ## 4. Getting there: airport, metro, MEO Arena
@@ -68,14 +75,16 @@ The guide lists only these two. If the user wants more, say the guide doesn't co
 
 ## 8. Sessions, speakers and startups
 
-- The guide recommends a daily shortlist: **three sessions and three startups/booths a day, each with a reason it fits and one question to ask.** The guide itself doesn't list specific talks; for those, point to the [official schedule](https://websummit.com/schedule/), [speakers](https://websummit.com/speakers/) and [featured startups](https://websummit.com/startups/featured-startups/). If you have web access you can look these up and build the shortlist, citing the official pages.
+- Conference talk highlights, meetups, side-event talks, hands-on demos with booth numbers and featured startups are in `sessions-demos-startups.md`.
+- Opening Night: Mon 9 Nov, 18:00–20:00, Centre Stage. There is no exhibition on Monday; the startup and exhibitor halls run Tue–Thu.
+
+- The guide recommends a daily shortlist: **three sessions and three startups/booths a day, each with a reason it fits and one question to ask.** For anything beyond the highlights, point to the [official schedule](https://websummit.com/schedule/search/), [speakers](https://websummit.com/speakers/) and [featured startups](https://websummit.com/startups/featured-startups/search/), or look them up if you have web access, citing the official pages.
 
 ## 9. Not covered by the guide
 
 Say so plainly and point to an official source or label general knowledge:
 
-- Badge pickup opening hours (not published at snapshot time).
-- Specific talks, speakers' session times, booth numbers: official schedule / app.
+- Talks, session times and booth numbers beyond the highlights in `sessions-demos-startups.md`: official schedule / app.
 - Restaurants, bars, hotels, neighbourhoods: not covered in detail (the guide only mentions seafood restaurants and cocktail or rooftop bars as good places for conversations). Follow the "Lisbon companion" section in SKILL.md: 2–4 options with why and how, from current web research when available, labelled as not from the guide.
 - Plug adapters: not detailed in the guide. General knowledge: Portugal uses type C and F sockets, 230 V, 50 Hz.
 - Weather, visas, safety: not covered; use official or general sources and say so.

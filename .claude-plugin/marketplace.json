@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Skills by Bebb for navigating tech events with your AI assistant.",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "plugins": [
     {
       "name": "web-summit-lisbon-2026",
       "source": "./",
       "description": "Web Summit Week Companion for Lisbon 2026: week plans, first-timer logistics, side events by goal, Night Summit, Lisbon tips and a personal relationship manager for your contacts and follow-ups. Unofficial.",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "category": "productivity",
       "keywords": [
         "web-summit",

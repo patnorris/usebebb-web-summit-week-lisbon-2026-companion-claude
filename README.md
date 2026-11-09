@@ -5,7 +5,8 @@ Turn Claude (or any assistant that supports Agent Skills) into your **Web Summit
 Ask in your own words and get answers that fit your goals:
 
 - **A plan for your week**: tell it what you're building, who you want to meet and which evenings you're free. You get a day-by-day plan with one main side event and one backup per evening.
-- **First-timer logistics**: badge pickup, airport to MEO Arena by metro, wifi and eSIM, luggage lockers at Oriente, coworking nearby, the First Timers meetup.
+- **Talks, demos and startups**: conference highlights, side-event talks, hands-on demos with booth numbers and featured startups, matched to your goal.
+- **First-timer logistics**: badge pickup and opening hours, airport to MEO Arena by metro, wifi and eSIM, luggage lockers at Oriente, coworking nearby, the First Timers meetup.
 - **Side events by goal** (fundraise, build with AI, find peers, first-time orientation), each with date, Lisbon time, access type (free, paid, approval), clashes and the organizer's own link.
 - **Your personal relationship manager**: send it a business card photo, a LinkedIn screenshot or a quick note after each conversation. It keeps one contacts list (where you met, what they need, what you promised, next step), budgets your time so you don't overbook, sorts contacts into tactical (act this week) and strategic (long term), drafts 48-hour follow-ups for you to send, and runs a 5-minute evening review.
 - **Lisbon companion**: a quiet dinner spot near the venue, a café to work from, where to go after a side event.
@@ -68,6 +69,7 @@ skills/web-summit-lisbon-2026/
 ├── references/
 │   ├── logistics.md                      # arrival, badge, metro, wifi, luggage, coworking
 │   ├── networking-and-side-events.md     # curated side events, clashes, investor events
+│   ├── sessions-demos-startups.md        # talk highlights, side-event talks, demos, startups
 │   └── relationship-management.md        # contacts inbox, capacity, priorities, follow-ups, daily review
 └── evals/                                # test cases (run with `claude plugin eval`)
 ```
@@ -75,14 +77,14 @@ skills/web-summit-lisbon-2026/
 ## Ground rules the skill follows
 
 - **Sources first.** Answers come from the guides, with the official or organizer link.
-- **Side events are a dated snapshot** (checked 27 Oct 2026). The organizer's page is the source of truth; the skill tells you to confirm there before you commit.
+- **Side events are a dated snapshot** (checked 5 Nov 2026). The organizer's page is the source of truth; the skill tells you to confirm there before you commit.
 - **No promises.** It never says a specific person will attend or meet you, and never treats an RSVP as an approval.
 - **You stay in control.** It drafts follow-ups and plans; it doesn't send messages, book or register on your behalf.
 - **Lisbon time** (WET, UTC+0) throughout.
 
 ## Freshness
 
-Snapshot: guides last updated 29 Oct 2026. Updated releases follow during Web Summit Week. With web access, the assistant fetches the live guides for time-sensitive questions.
+Snapshot: guides last updated 9 Nov 2026 (side events checked 5 Nov). Updated releases follow during Web Summit Week. With web access, the assistant fetches the live guides for time-sensitive questions.
 
 ## Disclaimer and privacy
 

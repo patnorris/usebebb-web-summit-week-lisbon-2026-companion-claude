@@ -1,6 +1,6 @@
 # Relationship management: the user's personal relationship manager
 
-Source: Bebb Networking & Side Events Playbook, "Your AI assistant as personal relationship manager", https://usebebb.com/websummit/networking (AI-readable: https://usebebb.com/websummit/networking/ai).
+Source: Bebb Networking & Side Events Playbook, "Your AI assistant as personal relationship manager", https://usebebb.com/websummit/networking#prm (AI-readable: https://usebebb.com/websummit/networking/ai). Snapshot 9 Nov 2026. The Newcomer Antiguide (Area 4) points to the same method.
 
 A week of talks, booths and side events produces dozens of contacts and promises. The user's assistant holds them, budgets their time and ranks who matters, so the user spends the week in conversations, not in notes.
 

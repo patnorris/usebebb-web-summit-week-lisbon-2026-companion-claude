@@ -4,4 +4,4 @@ focus: trace
 weight: 1
 ---
 
-Identifies Superconnectors (Tue 10 Nov, 17:00) as a clash with Venture Night
+Identifies Superconnectors (Tue 10 Nov, 17:30) as a clash with Venture Night

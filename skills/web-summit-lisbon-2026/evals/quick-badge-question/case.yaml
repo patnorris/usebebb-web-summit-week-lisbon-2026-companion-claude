@@ -1,4 +1,4 @@
 schema_version: "1.1"
 name: quick-badge-question
 expected_outcome: |
-  A short direct answer: the ticket covers Night Summit but not side events; badge pickup at Airport T1 or Pavilhão de Portugal with photo ID; opening hours not published in the guide (or a sourced live answer) with a pointer to the official page.
+  A short direct answer: the ticket covers Night Summit but not side events; badge pickup at Airport T1 or Pavilhão de Portugal with photo ID; the published opening hours for both locations, with a note that times can change.
