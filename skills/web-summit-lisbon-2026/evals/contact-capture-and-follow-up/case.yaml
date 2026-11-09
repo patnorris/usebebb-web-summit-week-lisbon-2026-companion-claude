@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: contact-capture-and-follow-up
+expected_outcome: |
+  Logs both contacts with the core fields, tags Ana as tactical (48-hour follow-up with a drafted message that references the specific conversation and delivers the promised one-pager) and Tom as strategic (reminder for Q1, give value first), respects the stated capacity, says where contacts are kept, and does not research private details.

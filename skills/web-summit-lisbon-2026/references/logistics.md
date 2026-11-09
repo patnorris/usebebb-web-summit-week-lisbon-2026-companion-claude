@@ -76,6 +76,6 @@ Say so plainly and point to an official source or label general knowledge:
 
 - Badge pickup opening hours (not published at snapshot time).
 - Specific talks, speakers' session times, booth numbers: official schedule / app.
-- Restaurants, bars, hotels, neighbourhoods: not covered in detail (the guide only mentions seafood restaurants and cocktail or rooftop bars as good places for conversations).
+- Restaurants, bars, hotels, neighbourhoods: not covered in detail (the guide only mentions seafood restaurants and cocktail or rooftop bars as good places for conversations). Follow the "Lisbon companion" section in SKILL.md: 2–4 options with why and how, from current web research when available, labelled as not from the guide.
 - Plug adapters: not detailed in the guide. General knowledge: Portugal uses type C and F sockets, 230 V, 50 Hz.
 - Weather, visas, safety: not covered; use official or general sources and say so.
